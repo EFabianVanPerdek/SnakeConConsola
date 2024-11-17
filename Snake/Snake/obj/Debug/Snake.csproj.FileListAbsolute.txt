@@ -1,0 +1,14 @@
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\Programacion c#\Snake\Snake\bin\Debug\Snake.exe.config
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\Programacion c#\Snake\Snake\bin\Debug\Snake.exe
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\Programacion c#\Snake\Snake\bin\Debug\Snake.pdb
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\Programacion c#\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\Programacion c#\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\Programacion c#\Snake\Snake\obj\Debug\Snake.exe
+\\FABIAN\Users\FABIAN1401\Desktop\Notebook-pc\Programacion c#\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\FABIAN1401\Desktop\Notebook-pc\Programacion c#\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\FABIAN1401\Desktop\Notebook-pc\Programacion c#\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\FABIAN1401\Desktop\Notebook-pc\Programacion c#\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\FABIAN1401\Desktop\Notebook-pc\Programacion c#\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\FABIAN1401\Desktop\Notebook-pc\Programacion c#\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\FABIAN1401\Desktop\Notebook-pc\Programacion c#\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\FABIAN1401\Desktop\Notebook-pc\Programacion c#\Snake\Snake\obj\Debug\Snake.pdb
